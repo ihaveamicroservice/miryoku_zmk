@@ -1,0 +1,8 @@
+// Copyright 2021 Manna Harbour
+// https://github.com/manna-harbour/miryoku
+// Custom macros for vim scrolling
+
+U_MACRO(u_scroll_left_10, bindings = <&kp N1 &kp N0 &kp H>;)
+U_MACRO(u_scroll_down_10, bindings = <&kp N1 &kp N0 &kp J>;)
+U_MACRO(u_scroll_up_10, bindings = <&kp N1 &kp N0 &kp K>;)
+U_MACRO(u_scroll_right_10, bindings = <&kp N1 &kp N0 &kp L>;)

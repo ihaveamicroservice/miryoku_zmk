@@ -13,6 +13,8 @@
 
 #include <dt-bindings/zmk/pointing.h>
 
+#include "miryoku_custom_macros.dtsi"
+
 / {
   keymap {
     compatible = "zmk,keymap";
